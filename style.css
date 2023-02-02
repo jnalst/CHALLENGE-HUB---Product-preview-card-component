@@ -90,6 +90,14 @@ img {
   font-weight: 500;
 }
 
+.botao a:hover {
+  background-color: hsl(212, 21%, 14%);
+}
+
+  .botao:hover {
+    background-color: hsl(212, 21%, 14%);
+}
+
 .botao {
   background-color: #3c8067;
   margin-top: 6rem;
@@ -108,6 +116,7 @@ img {
   right: 7rem;
   background-repeat: no-repeat;
 }
+
 .botao a {
   font-family: "Montserrat", sans-serif;
   text-decoration: none;
@@ -115,7 +124,6 @@ img {
   font-weight: 700;
   position: relative;
   color: #fff;
-  background-color: #3c8067;
   position: relative;
 }
 
