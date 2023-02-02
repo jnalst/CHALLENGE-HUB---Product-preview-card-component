@@ -90,12 +90,9 @@ img {
   font-weight: 500;
 }
 
-.botao a:hover {
-  background-color: hsl(212, 21%, 14%);
-}
-
-  .botao:hover {
-    background-color: hsl(212, 21%, 14%);
+.botao:hover {
+  background-color: #1c232b;
+  transition: all 0.5s;
 }
 
 .botao {
@@ -105,6 +102,7 @@ img {
   display: inline;
   border-radius: 0.5rem;
   place-items: center;
+  cursor: pointer;
 }
 
 .botao a::before {
@@ -127,8 +125,23 @@ img {
   position: relative;
 }
 
-.footer {
-  display: block;
+footer {
+  font-family: "Montserrat", sans-serif;
   text-align: center;
+  margin-top: 20.9rem;
+  /* background-color: #1c232b; */
+  /* padding: 2rem; */
+  font-size: 1.2rem;
+  /* color: #f2ebe3; */
+ transform: translateX(-6rem);
+  width: 1556px;
+}
+
+@media (max-width: 1320px){
+footer{
   margin-top: 10rem;
+  width: 1319px; 
+  transform: translateX(0rem);
+}
+
 }
