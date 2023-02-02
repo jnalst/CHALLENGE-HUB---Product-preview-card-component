@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-4sIrWiRdk4)
-- Live Site URL: [Add live site URL here](https://ch-product-preview.vercel.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-4sIrWiRdk4)
+- Live Site URL: [CH Product Preview](https://ch-product-preview.vercel.app/)
 
 ## My process
 
@@ -88,16 +88,14 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/pt-BR/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://developer.mozilla.org/pt-BR/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [MDN](https://developer.mozilla.org/pt-BR/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jnalst)
-- Twitter - [@yourusername](https://)
+- Frontend Mentor - [@jnalst](https://www.frontendmentor.io/profile/jnalst)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
